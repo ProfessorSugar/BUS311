@@ -1,6 +1,6 @@
 Package: BUS311
 Title: Datasets for stat class
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: 
     person("Shuguang", "Liu", , "liush@newpaltz.edu", role = c("aut", "cre"))
 Description: Data sets for stat class.
