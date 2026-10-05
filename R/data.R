@@ -1,4 +1,3 @@
-R
 #' Tech Salaries Dataset
 #'
 #' Annual performance ratings across 10 project teams.
